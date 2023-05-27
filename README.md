@@ -17,6 +17,7 @@ A mild correlation was found between price and ratings, indicating that high pri
 The categories with the highest average prices were air conditioners and laptops.
 
 Files
+
 Workflow - representation of the workflow used in this project.
 
 The project consists of:
